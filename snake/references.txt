@@ -1,0 +1,12 @@
+# This is a references list, thanks to all authors :)
+# https://blog.csdn.net/ggPanda/article/details/23163829
+# https://blog.csdn.net/halazi100/article/details/51779653
+# python-经典贪吃蛇（pygame）https://www.jianshu.com/p/5cc2a005961b
+# 用pygame写个简单的贪吃蛇游戏 https://blog.csdn.net/ggPanda/article/details/23163829
+# 12.3pygame游戏开发框架（3）：处理用户事件 https://blog.csdn.net/u010986776/article/details/79604924
+# pygame documentation https://www.pygame.org/docs/index.html
+# Snake Game Python Tutorial https://www.youtube.com/watch?v=CD4qAhfFuLo
+# Snake Pygame Tutorial #1 https://www.youtube.com/watch?v=5tvER0MT14s&list=RDCMUC4JX40jDee_tINbkjycV4Sg&start_radio=1&t=0
+# https://blog.csdn.net/qq_34404196/article/details/80718380
+# https://pythonprogramming.net/pygame-button-function-events/?completed=/pygame-button-function/
+# https://stackoverflow.com/questions/38001898/what-fonts-can-i-use-with-pygame-font-font
