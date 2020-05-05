@@ -17,6 +17,6 @@ for more information plese check my blog:https://cao-weiwei.github.io/posts/Buil
 
 ![initial screen](https://github.com/cao-weiwei/Snake_Game_Python/blob/master/images/01_snake_intro.png)
 
-![play game]https://github.com/cao-weiwei/Snake_Game_Python/blob/master/images/02_snake_game.png
+![play game](https://github.com/cao-weiwei/Snake_Game_Python/blob/master/images/02_snake_game.png)
 
-![game over]https://github.com/cao-weiwei/Snake_Game_Python/blob/master/images/03_snake_end.png
+![game over](https://github.com/cao-weiwei/Snake_Game_Python/blob/master/images/03_snake_end.png)
